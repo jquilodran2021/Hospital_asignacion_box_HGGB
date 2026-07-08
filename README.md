@@ -1,4 +1,4 @@
-# Hospital_asignacion_box_HGGB
+# Asignacion_box_HGGB
 Asignación de boxes ambulatorios: Modelo exacto + GRASP ajustado para asignación de boxes de atención ambulatoria.
 
 ---
