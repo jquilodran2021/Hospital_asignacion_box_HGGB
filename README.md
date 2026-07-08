@@ -6,7 +6,7 @@ Asignación de boxes ambulatorios: modelo exacto + GRASP
 
 En los policlínicos de atención ambulatoria, cada semana los profesionales
 de salud tienen una agenda con múltiples actividades distribuidas en bloques
-horarios de lunes a viernes. Cada actividad necesita un box de atención
+horarios de lunes a viernes, considerando que de lunes a jueves los horarios de atención son desde las 8:00 hasta las 17:00 y los días viernes desde 8:00 hasta 16:00. Cada actividad necesita un box de atención
 física para realizarse, y asignarlos manualmente es complejo porque no todos
 los boxes son compatibles con todos los tipos de atención, algunos están
 reservados para ciertas profesiones, y lo ideal es que cada profesional
